@@ -1,0 +1,175 @@
+<html>
+<title>music class</title>
+<head>
+<style>
+body {
+  background-color: plum;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: purple;
+}
+
+
+.topnav a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+.topnav a:hover {
+  background-color: red;
+  color: white;
+}
+
+
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: purple;
+  padding: 20px;
+}
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 80px;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+ <div class="topnav">
+
+       <a href="#About">About</a>
+        <a href="#online classes">online classes</a>
+        <a href="#Branches">Branches</a>
+        <a href="#contact ">Contact </a>
+ </div>
+
+
+
+
+<h1 style="color:blue";><center>IDEAL MUSIC CLASS</center></h1>
+<h2 style="color:blue";>ABOUT MUSIC</h2>
+<p>Music is the art of arranging sounds in time through the elements of melody, harmony, rhythm, and timbre.
+It is one of the universal cultural aspects of all human societies.
+General definitions of music include common elements such as pitch, rhythm, dynamics, and the sonic qualities of timbre and texture.
+Different styles or types of music may emphasize, de-emphasize or omit some of these elements.
+Music is performed with a vast range of instruments and vocal techniques ranging from singing to rapping;
+there are solely instrumental pieces, solely vocal pieces and pieces that combine singing and instruments.
+The word derives from Greek μουσική.</p>
+
+
+
+<h1 style="color:blue";><center>Musical Instruments</center></h1>
+<h2 style="color:blue";><center>classes</center></h2>
+
+<h2 style="color:red";><p>“Music gives a soul to the universe, wings to the mind, flight to the imagination, and life to everything.” – Plato</p></h2>
+
+<div class="grid-container">
+
+  <div><img src="https://th.bing.com/th/id/OIP.9JHYOkwOjZcB_p_NRgKNPQHaHa?w=182&h=182&c=7&r=0&o=5&dpr=1.25&pid=1.7" width="300" height="300">GUITAR</div>
+  <div><img src="https://th.bing.com/th/id/OIP.hecIcyADK_o8M85dtcmLhwHaEK?w=331&h=186&c=7&r=0&o=5&dpr=1.25&pid=1.7" width="300" height="300">PIANO</div>
+  <div><img src="https://th.bing.com/th/id/OIP.vyme1o1_h2HryhGtvkMeHgAAAA?w=188&h=190&c=7&r=0&o=5&dpr=1.25&pid=1.7" width="300" height="300">VIOLIN</div>
+  <div><img src="https://th.bing.com/th/id/OIP.VrrVnMcgDzKtwDKXT6aIBQHaE9?w=261&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7" width="300" height="300">FLUTE</div>
+  <div><img src="https://th.bing.com/th/id/OIP.rd6N-s7JdR5QnScfHie-YwHaHa?w=182&h=182&c=7&r=0&o=5&dpr=1.25&pid=1.7" width="300" height="300">SAXAPHONE</div>
+  <div><img src="https://th.bing.com/th/id/OIP.QDBQWg_fPNIHuMTrx23MqQHaHa?w=199&h=199&c=7&r=0&o=5&dpr=1.25&pid=1.7" width="300" height="300">DRUMS</div>  
+ 
+</div>
+
+
+<h1 style="color:blue";><center>TYPES OF MUSICS</center></h1>
+<h2 style="color:blue";><center>classes</center></h2>
+<h2 style="color:blue";>CLASSICAL MUSIC</h2>
+<p>Classical music generally refers to the formal musical tradition of the Western world, considered to be distinct from Western folk music or popular music traditions.
+It is sometimes distinguished as Western classical music, as the term "classical music" may also refer to non-Western traditions which exhibit similar formal qualities.
+In addition to formality, classical music is often characterized by complexity in its musical form and harmonic organization,[1] particularly with the use of polyphony.
+The earliest extant music manuscripts date from the Carolingian Empire (800–888),[3] around the time which Western plainchant gradually unified into what is termed Gregorian chant.</p>
+
+<h2 style="color:blue";>CARNATIC MUSIC</h2>
+<p>Carnatic music, known as Karnāṭaka saṃgīta or Karnāṭaka saṅgītam in the South Indian languages, is a system of music commonly associated with South India.
+It is one of two main subgenres of Indian classical music that evolved from ancient Sanatana dharma sciences and traditions, particularly the Samaveda.
+The other subgenre being Hindustani music, which emerged as a distinct form because of Persian or Islamic influences from Northern India.
+The main emphasis in Carnatic music is on vocal music; most compositions are written to be sung, and even when played on instruments, they are meant to be performed in gāyaki style</p>
+
+<h2 style="color:blue";>HIP POP</h2>
+<p>Hip hop music or hip-hop music, also known as rap music,is a genre of popular music developed in the United States by inner-city African Americans,
+Latino  Americans and Jamaicans in the Bronx borough of New York City in the 1970s.
+It consists of a stylized rhythmic music that commonly accompanies rapping, a rhythmic and rhyming speech that is chanted.
+While often used to refer solely to rapping, "hip hop" more properly denotes the practice of the entire subculture.
+Hip hop as both a musical genre and a culture was formed during the 1970s when block parties became increasingly popular in New York City,
+particularly among African American youth residing in the Bronx .</p>
+
+
+<div class="grid-container">
+  <div><img src="https://th.bing.com/th/id/OIP.Pb9zV4rNA3sLf6wfisV2mwHaHa?w=210&h=210&c=7&r=0&o=5&dpr=1.25&pid=1.7" width="300" height="300">CLASSICAL</div>
+  <div><img src="https://th.bing.com/th/id/OIP.tYF5-D5f9hgyCcDSSVlPiAHaHX?w=164&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7" width="300" height="300">CARNATIC</div>
+  <div><img src="https://th.bing.com/th/id/OIP.oPUe-lAKGaxtXxM48krFIwHaEs?w=282&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7" width="300" height="300">HIP POP</div>
+</div>
+
+<div class="main-content">
+  <section id="About">
+ <h1 style="color:blue";>About</h1>
+    <p>Music lessons are a type of formal instruction in playing a musical instrument or singing.
+Typically, a student taking music lessons meets a music teacher for one-on-one training sessions ranging from 30 minutes to one hour in length over a period of weeks or years.
+Depending on lessons to be taught, students learn different skills relevant to the instruments used.
+Music teachers also assign technical exercises, musical pieces, and other activities to help the students improve their musical skil</p>
+  </section>
+  <section id="online classes">
+    <h1 style="color:blue";>online classes</h1>
+<p>We are the best Carnatic Classical Music Academy in Hyderabad, specialized in both online music classes and
+offline music classes, established in the year 1998 with an aim to spread the knowledge of CARNATIC MUSIC worldwide.
+We started with a single branch in Hyderabad and expanded our wings to various branches across Hyderabad, Bangalore, Vizianagaram and Tirupati.
+We take the privilege of holding First Online Music Classes since 2008 and have a Very Ambitious and Highly Qualified Music Teachers who can withhold
+and drive the passion of the students by training them in different modes of music like light music/kritis or kirtanas during the
+regular Carnatic Music Lessons to drive and sustain their interest in their passion.</p>
+  </section>
+<section id="Branches">
+    <h1 style="color:blue";>Branches</h1>
+<p>Coimbatore,
+Chennai,
+Bangalore,
+Hyderabad.</p>
+  </section>
+  <section id="contact">
+    <h1 style="color:blue";>Contact</h1>
+ <p>59, Sathy Main Road Opp to play ground,
+Ramakrishnapuram, Coimbatore,
+Tamil Nadu 641006
++91 9940005959.</p>
+  </section>
+ 
+</div>
+
+<h3><center><div onmouseover="mOver(this)" onmouseout="mOut(this)"
+style="background-color:salmon;width:200px;height:120px;padding:40px;">ADMISSION OPEN FOR 2022</div></center></h3>
+
+<script>
+function mOver(obj) {
+  obj.innerHTML = "Thank You"
+}
+
+function mOut(obj) {
+  obj.innerHTML = "ADMISSION OPEN FOR 2022"
+}
+</script>
+
+</body>
+</html>
